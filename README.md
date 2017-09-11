@@ -28,6 +28,15 @@ During the initialization, an array of size two is created to store the index of
   This computation makes us able to find the letter in the alphabet : 3*array[0]+array[1]-7
 
 
+Construction of the physical device:
+-------------------------------------
+The device is made of plywood. There is one layer of wood treated with the laser-cutting machine to grave the positions of the buttons, the letters, to cut the holes for the branches of the switches.
+This is an illustrator picture: ....
+Then, the idea was to solder the switches with the wires in the back of the layer. I bought an arduino head connector and soldered the wires to it to make a convenient port gathering all the wires.
+
+I then designed a box made of plywood to transform the device into a remote.
+
+
 Android Things empty project template 
 =====================================
 
