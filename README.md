@@ -50,6 +50,10 @@ Reflection:
 ------------
 This was a really interesting project mostly for the hardware part because it tought ma how to solder as well to self design a prototype with the laser cutting jet. The software part was not really challenging (a really high-level code) but I really enjoyed learning how to work with switches.
 
+Final picture
+--------------
+https://github.com/idd-fall17/hw2-dany25/blob/master/device6.jpg
+
 Android Things empty project template 
 =====================================
 
