@@ -12,6 +12,7 @@ Only the buttons 4,5 and 6 are used for letter selection (4: left, 5: center, 6:
 Please see a picture of the device here: ....
 
 Why this technique:
+--------------------
 This technique is close to the old phone multi-tap technique. Here for every letter meant to be typed, exactly two buttons are necessary pressed. In the original method, on, two or three buttons are required and sometimes some waiting time when it comes to write two letters that are on the same digit (example b and c on the touch 1).
 I was also curious to see if, with a designed device, this technique is comfortable and if the user can get faslty used to it.
 
