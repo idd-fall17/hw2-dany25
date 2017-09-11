@@ -11,13 +11,21 @@ Only the buttons 4,5 and 6 are used for letter selection (4: left, 5: center, 6:
 
 Please see a picture of the device here: ....
 
-Why this technique:
+Why this technique ?
 --------------------
 This technique is close to the old phone multi-tap technique. Here for every letter meant to be typed, exactly two buttons are necessary pressed. In the original method, on, two or three buttons are required and sometimes some waiting time when it comes to write two letters that are on the same digit (example b and c on the touch 1).
 I was also curious to see if, with a designed device, this technique is comfortable and if the user can get faslty used to it.
 
 
-
+Implementation:
+----------------
+The code is event-based. Each switch, when pressed triggers an event. 
+During the initialization, an array of size two is created to store the index of the key pressed during the two different phases (see below). The first phase corresponds to the selection of a letter when a letter button (from 1 to 9) is pressed The second one is when the user is asked to choose one between the three letters selected. To separate those two situations (choose a group of letter and choose the letter), two states are implemented: 
+  - state 0: the user has to choose a group of three letters. During this phase, the key pressed is saved in the first case of the array.
+  - state 1: the user has to select the letter. When one of the 4, 5 or 6 touch is pressed, the key index is stored in the second case of the array, the program prints the letter pressed and the state switch again to 0.
+  
+  In fact, if the key pressed during the first phase is 1 (group abc) and the key pressed during the second phase is 5 (center letter). The letter meant is the 3*1+5-7 = 1 so 2nd letter of the alphabet (The index starts at 0).
+  This computation makes us able to find the letter in the alphabet : 3*array[0]+array[1]-7
 
 
 Android Things empty project template 
