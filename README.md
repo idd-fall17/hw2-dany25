@@ -9,7 +9,7 @@ This is a multi-tap technique, allowing the user to choose one group of three le
 The final device has 9 touches representing the 26 letters and the space character. A delete button is also used for correction. The letter buttons are indexed from 1 to 9. (1 represents the group abc, 2 the group def, ...).
 Only the buttons 4,5 and 6 are used for letter selection (4: left, 5: center, 6: right).
 
-Please see a picture of the device here: ....
+Please see a picture of the device here: https://github.com/idd-fall17/hw2-dany25/blob/master/device1.jpg
 
 Why this technique ?
 --------------------
