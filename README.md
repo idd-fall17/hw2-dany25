@@ -38,6 +38,7 @@ Please see picture: https://github.com/idd-fall17/hw2-dany25/blob/master/device3
 I then designed a box made of plywood to transform the device into a remote.
 Final device: https://github.com/idd-fall17/hw2-dany25/blob/master/device4.jpg
 
+Wiring diagram: https://github.com/idd-fall17/hw2-dany25/blob/master/device5.jpg
 
 Android Things empty project template 
 =====================================
