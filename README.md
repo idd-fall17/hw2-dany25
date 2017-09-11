@@ -40,6 +40,12 @@ Final device: https://github.com/idd-fall17/hw2-dany25/blob/master/device4.jpg
 
 Wiring diagram: https://github.com/idd-fall17/hw2-dany25/blob/master/device5.jpg
 
+Video demo
+----------
+Youtube Link:
+https://youtu.be/eKFkr00kdVI
+
+
 Android Things empty project template 
 =====================================
 
