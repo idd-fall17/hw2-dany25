@@ -33,8 +33,10 @@ Construction of the physical device:
 The device is made of plywood. There is one layer of wood treated with the laser-cutting machine to grave the positions of the buttons, the letters, to cut the holes for the branches of the switches.
 This is an illustrator picture:  https://github.com/idd-fall17/hw2-dany25/blob/master/device2.png
 Then, the idea was to solder the switches with the wires in the back of the layer. I bought an arduino head connector and soldered the wires to it to make a convenient port gathering all the wires.
+Please see picture: https://github.com/idd-fall17/hw2-dany25/blob/master/device3.jpg
 
 I then designed a box made of plywood to transform the device into a remote.
+Final device
 
 
 Android Things empty project template 
